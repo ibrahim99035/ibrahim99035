@@ -33,10 +33,9 @@
 
 ### Social Media
 
-- ![Facebook]() [Facebook]()
-- ![Twitter]() [Twitter]()
-- ![Whatsapp ]() [Whatsapp]()
-- ![Telegram]() [Telegram]()
-- ![Discord]() [Discord]()
-- ![Linkedin]() [Linkedin]()
-
+- ![Facebook](https://raw.githubusercontent.com/ibrahim99035/ibrahim99035/main/Images/social_media/facebook.png) [Facebook](https://web.facebook.com/ibrahim.abueita.7/)
+- ![Twitter](https://raw.githubusercontent.com/ibrahim99035/ibrahim99035/main/Images/social_media/twitter.png) [Twitter](https://twitter.com/Ebrahim87701156)
+- ![Whatsapp ](https://raw.githubusercontent.com/ibrahim99035/ibrahim99035/main/Images/social_media/pngegg.png) [Whatsapp](https://wa.me/201061468175)
+- ![Telegram](https://raw.githubusercontent.com/ibrahim99035/ibrahim99035/main/Images/social_media/Telegram_logo.png) [Telegram](https://t.me/ibrahimaboeita)
+- ![Linkedin](https://raw.githubusercontent.com/ibrahim99035/ibrahim99035/main/Images/social_media/LinkedIn_icon.png) [Linkedin](https://www.linkedin.com/in/ibrahim-abu-eita-0b2490206/)
+- ![gmail](https://raw.githubusercontent.com/ibrahim99035/ibrahim99035/main/Images/social_media/Gmail-logo%20(1).png) [Email me](mailto:ebrahimaboeita990@gmail.com)
