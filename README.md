@@ -12,7 +12,19 @@
 - CSS ![CSS](https://raw.githubusercontent.com/ibrahim99035/ibrahim99035/main/Images/languages/css.png)
 - PHP ![php](https://raw.githubusercontent.com/ibrahim99035/ibrahim99035/main/Images/languages/php.png)
 - Python ![py](https://raw.githubusercontent.com/ibrahim99035/ibrahim99035/main/Images/languages/python.png)
-- C++ ![cpp]()
-- C ![c]()
+- C++ ![cpp](https://raw.githubusercontent.com/ibrahim99035/ibrahim99035/main/Images/languages/c-%20(1).png)
+- C ![c](https://raw.githubusercontent.com/ibrahim99035/ibrahim99035/main/Images/languages/c-program-icon%20(1).png)
 
 ---
+
+## Frame Works i use
+
+- Flask ![flask]()
+- Django ![Django]()
+
+---
+
+## Databases i learn
+
+- MySQL ![mySql]()
+- MongoDB ![Mongo]()
