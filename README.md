@@ -19,12 +19,24 @@
 
 ## Frame Works i use
 
-- Flask ![flask]()
-- Django ![Django]()
+- Flask ![flask](https://raw.githubusercontent.com/ibrahim99035/ibrahim99035/main/Images/languages/flask.png)
+- Django ![Django](https://raw.githubusercontent.com/ibrahim99035/ibrahim99035/main/Images/languages/django-icon-21%20(1).jpg)
 
 ---
 
 ## Databases i learn
 
-- MySQL ![mySql]()
-- MongoDB ![Mongo]()
+- MySQL ![mySql](https://raw.githubusercontent.com/ibrahim99035/ibrahim99035/main/Images/languages/mysql.png)
+- MongoDB ![Mongo](https://raw.githubusercontent.com/ibrahim99035/ibrahim99035/main/Images/languages/icons8-mongodb-48.png)
+
+---
+
+### Social Media
+
+- ![Facebook]() [Facebook]()
+- ![Twitter]() [Twitter]()
+- ![Whatsapp ]() [Whatsapp]()
+- ![Telegram]() [Telegram]()
+- ![Discord]() [Discord]()
+- ![Linkedin]() [Linkedin]()
+
