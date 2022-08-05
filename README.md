@@ -1,17 +1,18 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**ibrahim99035/ibrahim99035** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&duration=4000&color=0D6B79&width=600&lines=I+am+Ibrahim+abu+eita;Computer+Science+Student;at+FCI+Tanta+University;Backend+Developer+!)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+> I am a Computer Science Student at Tanta University IT department in the graduation year with GPA 2.2.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## I Would Edit this some day 🤥
+## Programming Languages I use
+
+- Java ![java](https://raw.githubusercontent.com/ibrahim99035/ibrahim99035/main/Images/languages/java.png)
+- JavaScript ![JS](https://raw.githubusercontent.com/ibrahim99035/ibrahim99035/main/Images/languages/java-script.png)
+- HTML ![HTML](https://raw.githubusercontent.com/ibrahim99035/ibrahim99035/main/Images/languages/html-5.png)
+- CSS ![CSS](https://raw.githubusercontent.com/ibrahim99035/ibrahim99035/main/Images/languages/css.png)
+- PHP ![php](https://raw.githubusercontent.com/ibrahim99035/ibrahim99035/main/Images/languages/php.png)
+- Python ![py](https://raw.githubusercontent.com/ibrahim99035/ibrahim99035/main/Images/languages/python.png)
+- C++ ![cpp]()
+- C ![c]()
+
+---
