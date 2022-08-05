@@ -6,6 +6,8 @@
 
 ## Programming Languages I use
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Java;JavaScript;HTML;CSS;PHP;Python;C%2B%2B;C)](https://git.io/typing-svg)
+
 - Java ![java](https://raw.githubusercontent.com/ibrahim99035/ibrahim99035/main/Images/languages/java.png)
 - JavaScript ![JS](https://raw.githubusercontent.com/ibrahim99035/ibrahim99035/main/Images/languages/java-script.png)
 - HTML ![HTML](https://raw.githubusercontent.com/ibrahim99035/ibrahim99035/main/Images/languages/html-5.png)
