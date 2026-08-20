@@ -1,43 +1,39 @@
-# Hi there 👋
+<!-- Header Section -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ibrahim%20Abu%20Eita&fontSize=50&fontAlignY=35" alt="Header Wave"/>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&duration=4000&color=0D6B79&width=600&lines=I+am+Ibrahim+abu+eita;Computer+Science+Student;at+FCI+Tanta+University;Backend+Developer+!)](https://git.io/typing-svg)
-
-> I am a Computer Science Student at Tanta University IT department in the graduation year with GPA 2.2.
-
-## Programming Languages I use
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Java;JavaScript;HTML;CSS;PHP;Python;C%2B%2B;C)](https://git.io/typing-svg)
-
-- Java ![java](https://raw.githubusercontent.com/ibrahim99035/ibrahim99035/main/Images/languages/java.png)
-- JavaScript ![JS](https://raw.githubusercontent.com/ibrahim99035/ibrahim99035/main/Images/languages/java-script.png)
-- HTML ![HTML](https://raw.githubusercontent.com/ibrahim99035/ibrahim99035/main/Images/languages/html-5.png)
-- CSS ![CSS](https://raw.githubusercontent.com/ibrahim99035/ibrahim99035/main/Images/languages/css.png)
-- PHP ![php](https://raw.githubusercontent.com/ibrahim99035/ibrahim99035/main/Images/languages/php.png)
-- Python ![py](https://raw.githubusercontent.com/ibrahim99035/ibrahim99035/main/Images/languages/python.png)
-- C++ ![cpp](https://raw.githubusercontent.com/ibrahim99035/ibrahim99035/main/Images/languages/c-%20(1).png)
-- C ![c](https://raw.githubusercontent.com/ibrahim99035/ibrahim99035/main/Images/languages/c-program-icon%20(1).png)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full-Stack+Software+Engineer;ITI+Open-Source+Scholar;Backend+Architecture+%26+Databases;Containerized+Workflows" alt="Typing SVG" />
+</p>
 
 ---
 
-## Frame Works i use
-
-- Flask ![flask](https://raw.githubusercontent.com/ibrahim99035/ibrahim99035/main/Images/languages/flask.png)
-- Django ![Django](https://raw.githubusercontent.com/ibrahim99035/ibrahim99035/main/Images/languages/django-icon-21%20(1).jpg)
+### 👨‍💻 About Me
+Software Engineering Scholar at ITI with a focus on full-stack development, backend architecture, and containerized workflows. Passionate about building scalable, efficient web applications—from 3D dental management tools (Oralis) to AI-powered geospatial routing agents (Rihla).
 
 ---
 
-## Databases i learn
-
-- MySQL ![mySql](https://raw.githubusercontent.com/ibrahim99035/ibrahim99035/main/Images/languages/mysql.png)
-- MongoDB ![Mongo](https://raw.githubusercontent.com/ibrahim99035/ibrahim99035/main/Images/languages/icons8-mongodb-48.png)
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+</p>
 
 ---
 
-### Social Media
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimabueita&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimabueita&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
-- ![Facebook](https://raw.githubusercontent.com/ibrahim99035/ibrahim99035/main/Images/social_media/facebook.png) [Facebook](https://web.facebook.com/ibrahim.abueita.7/)
-- ![Twitter](https://raw.githubusercontent.com/ibrahim99035/ibrahim99035/main/Images/social_media/twitter.png) [Twitter](https://twitter.com/Ebrahim87701156)
-- ![Whatsapp ](https://raw.githubusercontent.com/ibrahim99035/ibrahim99035/main/Images/social_media/pngegg.png) [Whatsapp](https://wa.me/201061468175)
-- ![Telegram](https://raw.githubusercontent.com/ibrahim99035/ibrahim99035/main/Images/social_media/Telegram_logo.png) [Telegram](https://t.me/ibrahimaboeita)
-- ![Linkedin](https://raw.githubusercontent.com/ibrahim99035/ibrahim99035/main/Images/social_media/LinkedIn_icon.png) [Linkedin](https://www.linkedin.com/in/ibrahim-abu-eita-0b2490206/)
-- ![gmail](https://raw.githubusercontent.com/ibrahim99035/ibrahim99035/main/Images/social_media/Gmail-logo%20(1).png) [Email me](mailto:ebrahimaboeita990@gmail.com)
+---
+
+### 📬 Contact & Links
+*   **Portfolio:** [ibrahimabueita.vercel.app](https://ibrahimabueita.vercel.app/)
+*   **Email:** [ebrahimaboeita990@gmail.com](mailto:ebrahimaboeita990@gmail.com)
+*   **LinkedIn:** [linkedin.com/in/ibrahim-abu-eita-0b2490206](https://www.linkedin.com/in/ibrahim-abu-eita-0b2490206/)
